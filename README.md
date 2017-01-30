@@ -23,7 +23,7 @@ Users will be able to
 
 ### Technologies and Technical Challenges
 
-This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts: 
+This app will be built using React Native and vanilla JavaScript. React Native will also be used for the styling.
 
 The technical challenges of this project will be:
 
@@ -81,8 +81,8 @@ Nandini's primary responsibilities will be:
 
 **Day 5**:
 
--
--
+- Polish Style
+- Finish App and all bugfixes 
 
 ### Plan for getting users and reviews
 
