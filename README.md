@@ -19,7 +19,6 @@ Users will be able to
 1. <br />![wireframes](docs/wireframes/splash_page.png) <br />
 <br /> 2. <br /> ![wireframes](docs/wireframes/form1.png) <br />
 <br />3. <br /> ![wireframes](docs/wireframes/form2.png)
-### Wireframes
 
 ### Technologies and Technical Challenges
 
