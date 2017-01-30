@@ -21,8 +21,7 @@ Users will be able to
 <br /> 2. <br /> ![wireframes](docs/wireframes/form1.png) <br />
 <br />3. <br /> ![wireframes](docs/wireframes/form2.png)
 =======
-### Wireframes 
->>>>>>> 0e73354d0f77d18dccf290aa184a9b9cec8d6280
+### Wireframes
 
 ### Technologies and Technical Challenges
 
@@ -74,10 +73,7 @@ Nandini's primary responsibilities will be:
 
 ### Plan for getting users and reviews
 
-<<<<<<< HEAD
 - Spread the app on LinkedIn and Facebook/Twitter.
 - Have it featured in an article on Wall Street Journal, Wired, Tech Crunch, or Reddit.
-=======
->>>>>>> 0e73354d0f77d18dccf290aa184a9b9cec8d6280
--
--
+<!-- -
+- -->
