@@ -13,19 +13,16 @@ Users will be able to
 - [ ] add text to speech and thought bubbles
 - [ ] save the created comic strip to their local storage
 
-<<<<<<< HEAD
 
 ### Wireframes
 
 1. <br />![wireframes](docs/wireframes/splash_page.png) <br />
 <br /> 2. <br /> ![wireframes](docs/wireframes/form1.png) <br />
 <br />3. <br /> ![wireframes](docs/wireframes/form2.png)
-=======
 ### Wireframes
 
 ### Technologies and Technical Challenges
 
-<<<<<<< HEAD
 This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts:
 
 The technical challenges of this project will be:
@@ -34,8 +31,6 @@ The technical challenges of this project will be:
 - Determining the implementation of slider listing figures and bubbles
 - Identifying ways to incorporate text input inside speech and thought bubbles
 
-=======
->>>>>>> ba0e4362deac9ae8f70da295c05351b2762921aa
 ### Group Members and Work Breakdown
 
 Our group has three members, Nate Reiners, Ken Lee and Nandini Adhyapaka.
@@ -86,5 +81,3 @@ Nandini's primary responsibilities will be:
 
 - Spread the app on LinkedIn and Facebook/Twitter.
 - Have it featured in an article on Wall Street Journal, Wired, Tech Crunch, or Reddit.
-<!-- -
-- -->
