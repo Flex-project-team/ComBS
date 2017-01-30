@@ -2,7 +2,7 @@
 
 ### Background
 
-Com Storm is a mobile app for making comics, built using React Native. This app was designed to improve the poor quality of newspaper comics in America after Bill Watterson retired.
+Com Storm is a mobile app for making comics, built using React Native.
 
 ### Functionality and MVP
 
@@ -13,16 +13,18 @@ Users will be able to
 - [ ] add text to speech and thought bubbles
 - [ ] save the created comic strip to their local storage
 
+<<<<<<< HEAD
 
 ### Wireframes
 
 1. <br />![wireframes](docs/wireframes/splash_page.png) <br />
 <br /> 2. <br /> ![wireframes](docs/wireframes/form1.png) <br />
 <br />3. <br /> ![wireframes](docs/wireframes/form2.png)
+=======
+### Wireframes 
+>>>>>>> 0e73354d0f77d18dccf290aa184a9b9cec8d6280
 
 ### Technologies and Technical Challenges
-
-This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts:
 
 ### Group Members and Work Breakdown
 
@@ -47,8 +49,8 @@ Nandini's primary responsibilities will be:
 
 **Day 1**:
 
-- Learn React Native
-- Setup Basic File Structure and Libraries
+-
+-
 
 **Day 2**:
 
@@ -72,12 +74,10 @@ Nandini's primary responsibilities will be:
 
 ### Plan for getting users and reviews
 
+<<<<<<< HEAD
 - Spread the app on LinkedIn and Facebook/Twitter.
 - Have it featured in an article on Wall Street Journal, Wired, Tech Crunch, or Reddit.
+=======
+>>>>>>> 0e73354d0f77d18dccf290aa184a9b9cec8d6280
 -
 -
-
-### Bonus Features
-
-- Allow users to upload their own images
-- User authentication
