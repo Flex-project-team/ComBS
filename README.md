@@ -56,22 +56,28 @@ Nandini's primary responsibilities will be:
 **Day 1**:
 
 - Build basic file structure and skeleton
-- Install 
+- Install necessary dependencies and setup testing environment
+- Design Logo 
 
 **Day 2**:
 
--
--
+- Basic GUI setup and minimal functionality beginning 
+- Design out local storage implementation
+- Make progress on Drag and Drop 
+- Implement Sliders
 
 **Day 3**:
 
--
--
+- Finish anything leftover from Day 2 
+- Text Input 
+- Canvas Equivalent in React Native
+- Local Storage 
 
 **Day 4**:
 
--
--
+- Finish anything leftover from Day 3
+- Styling first draft 
+- Bugfixing
 
 **Day 5**:
 
@@ -82,3 +88,10 @@ Nandini's primary responsibilities will be:
 
 - Spread the app on LinkedIn and Facebook/Twitter.
 - Have it featured in an article on Wall Street Journal, Wired, Tech Crunch, or Reddit.
+
+### Bonus Features
+
+- Allow users to upload their own images
+- User authentication
+- Custom backgrounds and colors 
+- Cross platform support to Android
