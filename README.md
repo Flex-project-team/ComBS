@@ -21,6 +21,8 @@ Users will be able to
 
 ### Technologies and Technical Challenges
 
+This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts:
+
 ### Group Members and Work Breakdown
 
 Our group has three members, Nate Reiners, Ken Lee and Nandini Adhyapaka.
