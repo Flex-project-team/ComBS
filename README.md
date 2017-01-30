@@ -2,7 +2,7 @@
 
 ### Background
 
-Com Storm is a mobile app for making comics, built using React Native.
+Com Storm is a mobile app for making comics, built using React Native. This app is intended to improve the poor quality of content in newspaper comics after the retirement of Bill Watterson. With how easy it is to get carpal tunnel syndrome, this app might end up saving lives :). 
 
 ### Functionality and MVP
 
@@ -23,13 +23,14 @@ Users will be able to
 
 ### Technologies and Technical Challenges
 
-This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts:
+This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts: 
 
 The technical challenges of this project will be:
 
-- Determining the implementation of drag and drop for figures and bubbles on to the canvas
-- Determining the implementation of slider listing figures and bubbles
-- Identifying ways to incorporate text input inside speech and thought bubbles
+- Determining the implementation of drag and drop for figures and bubbles on to the canvas.
+- Determining the implementation of slider listing figures and bubbles.
+- Identifying ways to incorporate text input inside speech and thought bubbles.
+- Storing a user's creations in internal storage. 
 
 ### Group Members and Work Breakdown
 
@@ -37,25 +38,25 @@ Our group has three members, Nate Reiners, Ken Lee and Nandini Adhyapaka.
 
 Nate's primary responsibilities will be:
 
--
--
+- Text Input
+- Local Storage
 
 Ken's primary responsibilities will be:
 
--
--
+- Drag and Drop 
+- Canvas equivalent in React Native or grid layout depending 
 
 Nandini's primary responsibilities will be:
 
--
--
+- Sliders
+- Styling 
 
 ### Implementation Timeline
 
 **Day 1**:
 
--
--
+- Build basic file structure and skeleton
+- Install 
 
 **Day 2**:
 
