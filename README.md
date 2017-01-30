@@ -2,7 +2,7 @@
 
 ### Background
 
-Com Storm is a mobile app for making comics, built using React Native. 
+Com Storm is a mobile app for making comics, built using React Native.
 
 ### Functionality and MVP
 
@@ -14,6 +14,10 @@ Users will be able to
 - [ ] save the created comic strip to their local storage
 
 ### Wireframes
+
+![wireframes](docs/wireframes/splash_page.png)
+![wireframes](docs/wireframes/form1.png)
+![wireframes](docs/wireframes/form2.png)
 
 ### Technologies and Technical Challenges
 
@@ -67,3 +71,8 @@ Nandini's primary responsibilities will be:
 
 -
 -
+
+### Bonus Features
+
+- Allow users to upload their own images
+- User authentication
