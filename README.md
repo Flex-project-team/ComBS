@@ -23,6 +23,12 @@ Users will be able to
 
 This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts:
 
+The technical challenges of this project will be:
+
+- Determining the implementation of drag and drop for figures and bubbles on to the canvas
+- Determining the implementation of slider listing figures and bubbles
+- Identifying ways to incorporate text input inside speech and thought bubbles
+
 ### Group Members and Work Breakdown
 
 Our group has three members, Nate Reiners, Ken Lee and Nandini Adhyapaka.
