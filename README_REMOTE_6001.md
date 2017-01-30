@@ -26,17 +26,6 @@ Users will be able to
 
 ### Technologies and Technical Challenges
 
-<<<<<<< HEAD
-This app will be built primarily using React Native and vanilla JavaScript. In addition to `package.json`, there will be the following scripts:
-
-The technical challenges of this project will be:
-
-- Determining the implementation of drag and drop for figures and bubbles on to the canvas
-- Determining the implementation of slider listing figures and bubbles
-- Identifying ways to incorporate text input inside speech and thought bubbles
-
-=======
->>>>>>> ba0e4362deac9ae8f70da295c05351b2762921aa
 ### Group Members and Work Breakdown
 
 Our group has three members, Nate Reiners, Ken Lee and Nandini Adhyapaka.
