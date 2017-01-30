@@ -2,11 +2,7 @@
 
 ### Background
 
-<<<<<<< HEAD
-Com Storm is a mobile app for making comics, built using React Native. This app was designed to improve the poor quality of newspaper comics in America after Bill Waterson retired.
-=======
-Com Storm is a mobile app for making comics, built using React Native.
->>>>>>> 08438ea5798535286d5af8ab272dfe52da978679
+Com Storm is a mobile app for making comics, built using React Native. This app was designed to improve the poor quality of newspaper comics in America after Bill Watterson retired.
 
 ### Functionality and MVP
 
@@ -74,10 +70,8 @@ Nandini's primary responsibilities will be:
 
 ### Plan for getting users and reviews
 
-<<<<<<< HEAD
 - Spread the app on LinkedIn and Facebook/Twitter
 - Have it featured in an article on Wall Street Journal, Wired, Tech Crunch, or Reddit
-=======
 -
 -
 
@@ -85,4 +79,3 @@ Nandini's primary responsibilities will be:
 
 - Allow users to upload their own images
 - User authentication
->>>>>>> 08438ea5798535286d5af8ab272dfe52da978679
